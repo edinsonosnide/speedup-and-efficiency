@@ -37,11 +37,11 @@ Both programs:
 
 Speedup:
 
-S = T1 / Tn
+Speedup = T1 / Tn
 
 Efficiency:
 
-E = Speedup / N
+Efficiency = Speedup / N
 
 Where: 
 - T1 = execution time with 1 CPU/thread
