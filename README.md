@@ -43,7 +43,9 @@ Efficiency:
 
 E = Speedup / N
 
-Where: - T1 = execution time with 1 CPU/thread - Tn = execution time
+Where: 
+- T1 = execution time with 1 CPU/thread
+- Tn = execution time
 with N CPUs/threads
 
 ## Requirements
