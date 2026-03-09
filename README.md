@@ -63,3 +63,9 @@ Understand how **parallelism impacts performance** and compare:
 
 -   Multiprocessing (true parallelism)
 -   Thread-based parallelism using BLAS
+
+## Conclusions
+
+-   Multiprocessing: The results show that speedup increases steadily as the number of processors increases, while efficiency decreases as more processors are used.
+-   Thread-based parallelism using BLAS: No clear pattern is observed in either speedup or efficiency as the number of processors increases.
+
